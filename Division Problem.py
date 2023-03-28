@@ -11,5 +11,3 @@ a = int(input("Enter the value of Dividend: "))
 b = int(input("Enter the value of Divisor: "))
 
 print("Result:", divide(a,b))
-
-d
