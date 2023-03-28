@@ -7,8 +7,9 @@ def divide(dividend, divisor):
         quotient += 1
     return quotient
 
-a = float(input("Enter the value of Dividend: "))
-b = float(input("Enter the value of Divisor: "))
+a = int(input("Enter the value of Dividend: "))
+b = int(input("Enter the value of Divisor: "))
 
 print("Result:", divide(a,b))
 
+d
